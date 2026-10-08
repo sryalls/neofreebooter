@@ -28,6 +28,8 @@ The starting point is a conversation about technological change, mutualism, comm
 | Weak points and things to test | [Open questions](docs/research/open-questions.md) and [first experiments](docs/research/experiments.md) |
 | Where this came from | [Sources and provenance](docs/provenance.md) |
 
+For earlier, exploratory material behind this synthesis, see the [draft reading guide](docs/research/draft-reading-guide.md).
+
 ## Existing building blocks
 
 Much of what we might need already exists. The question is how to make it accessible and connect it usefully.
