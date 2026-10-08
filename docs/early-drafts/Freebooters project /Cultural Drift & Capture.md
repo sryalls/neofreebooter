@@ -1,0 +1,11 @@
+### **7. Cultural Drift & Capture**
+
+Corporations may attempt to co-opt or cargo-cult freebooter practices, as they already have with agile or with the rhetoric of “empowering gig workers.” This is not necessarily a threat. If such adoption makes corporate environments less extractive or more humane, then it is a net gain for humanity.
+
+The distinction lies in depth: the lived experience of commons, reciprocity, and shared literacy cannot be mimicked by branding exercises or managerial fads. The real thing is knowable by participation, and resilient communities will continue to embody it regardless of how many corporates put “agile” or “resilient” on their websites. Cargo cults do not dilute the core; they only reveal, by contrast, what is genuine.
+
+Agile itself is a case study. Born in Silicon Valley for “tech bros,” it spread far beyond its original context. Its power came not from slogans but from articulating where and how the interests of professionals (and workers of all kinds) and owners align: transparency reduces waste, iteration reduces risk, autonomy boosts productivity. In practice, agile gave professionals leverage and dignity, while providing businesses with resilience. This dual value explains why it has endured and spread.
+
+Here the framework’s **ethical liberalism** becomes important. It avoids the trap of Marx’s overly simple class antagonism. Corporate does not automatically mean bad. Many companies will adapt to work productively with freebooters—just as they adapted to agile, often in honest and effective ways. Indeed, freebooters have a valuable offer to corporate clients: highly skilled contribution without expectation of permanence. This aligns well with shifting business needs, provided the relationship is transparent and non-extractive.
+
+Thus, cultural drift is not a danger to be resisted at all costs. Freebooters should expect adaptation, mimicry, even co-option. The response is not to gatekeep but to stay rooted in commons institutions, reciprocity, and literacy. If corporates take pieces of the model and apply them, the freebooter world still benefits: the practices become normalized, the values less alien. What remains unique is the culture of **trust, resilience, and solidarity**, which cannot be faked into existence by management consultants.

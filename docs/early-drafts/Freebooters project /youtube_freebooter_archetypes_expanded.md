@@ -1,0 +1,23 @@
+# YouTube and the Archetypes of Freebooters (Expanded)
+
+YouTube provides a living laboratory for observing the emergence of a proto-freebooter or smallholder class. Across scavengers, artisans, and rent-seekers, creators demonstrate how individuals are already carving out independence from traditional corporate employment. These archetypes highlight both the opportunities and the fragilities of this new class-in-formation. A crucial factor is that most of these models rely not only on the activity itself (scavenging, crafting, restoration) but also on performing that activity as entertainment. The need to be part-worker, part-educator, and part-entertainer introduces both strength and vulnerability.
+
+## 1. Scavenger Freebooters
+
+Examples: Mike the Scavenger, Jeebus, Thub.<br><br>These creators specialise in finding overlooked value—whether in scrap metal, abandoned storage units, or discarded goods. They embody opportunism and risk-taking, with low capital requirements but high adaptability. Their independence rests on recognising value where others see waste. In commons terms, they parallel the role of foragers, scavenging the excess of industrial society. As entertainers, they frame risk and surprise as a spectacle, transforming ordinary salvage into stories that audiences want to follow.
+
+## 2. Neo-Artisan Freebooters
+
+Examples: Brothers Make, Lachlan of Zorpazorp, Bernadette Banner, Christine McConnell, Laura Kampf, April Wilkerson, Baumgartner Restoration.<br><br>These creators use fabrication, craft, and narrative to build independent livelihoods. Brothers Make recycle plastics and woodwork; Zorpazorp creates story-driven wargaming terrain and models with heavy reliance on 3D printing; Bernadette Banner reconstructs historical dress while advocating for slow fashion; Christine McConnell reinvents the gothic domestic sphere with baking, renovation, and set design; Laura Kampf and April Wilkerson showcase inventive reuse and DIY fabrication; Baumgartner Restoration demonstrates the art of conservation. Each of these artisans blends craft with storytelling. Their economic independence comes not only from the making itself, but from narrating and performing their making as entertainment. Audiences become patrons, customers, and co-creators.
+
+## 3. Rent-Seeking Freebooters
+
+Examples: vending machine operators, arcade cabinet collectors, small-scale gambling machine owners.<br><br>These creators generate income by owning and maintaining micro-infrastructures that extract value through repeated use. They are capital- and logistics-heavy, often blurring into micro-capitalism. While less directly aligned with commons principles, they demonstrate another path to independence from wage labour. As entertainers, they often dramatise the 'passive income' promise, inviting audiences to imagine themselves entering similar ventures.
+
+## Shared Dynamics
+
+Across all three archetypes, common themes emerge:<br>- **Tech Amplification**: cameras, platforms, AI tools, and fabrication machines extend individual capacity.<br>- **Narrative Value**: storytelling and transparency turn independence into a community-supported livelihood.<br>- **Platform Dependence**: freedom from corporate employment coexists with reliance on corporate distribution channels like YouTube and Etsy.<br>- **Cultural Resonance**: each archetype embodies agency, ingenuity, and resourcefulness—values attractive to those dissatisfied with wage dependence.<br>- **Entertainer Dependency**: perhaps the most important shared factor. Their independence hinges on the ability to make their work entertaining to an audience. This adds resilience—since communities of viewers can directly support creators—but also fragility, since changing algorithms, shifting audience attention, or burnout can collapse the model. It also raises a critical point for commons futures: independence is more viable when embedded in community use-value, not only in attention economies.
+
+## Fit with the Commons Framework
+
+Scavengers, artisans, and rent-seekers demonstrate how individuals can achieve resilience and autonomy in the cracks of platform capitalism. On their own, they show what is possible at the individual scale. Networked into communities, they could form resilient ecosystems. Integrated into value chains, they become nodes of a larger commons economy. YouTube thus offers not only entertainment, but also an anthropological window into the early stages of a new economic class. The dependency on being entertainers highlights the challenge: to evolve from independence sustained by attention economies into resilience sustained by shared infrastructures and commons-based use-value.
